@@ -94,19 +94,19 @@
     "url": "https://cloud.eplass.de",
     "icon": "https://favicons.githubusercontent.com/cloud.eplass.de",
     "slug": "eplass-cloud",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1071,
-    "timeDay": 1071,
-    "timeWeek": 1071,
-    "timeMonth": 1071,
-    "timeYear": 1071,
+    "status": "up",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 1105,
+    "timeDay": 1105,
+    "timeWeek": 1105,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2021-08-20": 0
+      "2021-08-20": 8
     }
   }
 ]
