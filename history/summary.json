@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/infoclient.eplass.de",
     "slug": "eplass-info-client",
     "status": "up",
-    "uptime": "93.88%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "93.88%",
+    "uptime": "95.20%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "95.20%",
+    "uptimeYear": "95.20%",
     "time": 955,
     "timeDay": 955,
     "timeWeek": 955,
     "timeMonth": 955,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2021-08-20": 34
+      "2021-08-20": 27
     }
   },
   {
@@ -78,18 +78,20 @@
     "url": "https://file.eplass.de",
     "icon": "https://favicons.githubusercontent.com/file.eplass.de",
     "slug": "eplass-file",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1159,
     "timeDay": 1159,
     "timeWeek": 1159,
     "timeMonth": 1159,
     "timeYear": 1159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-20": 0
+    }
   },
   {
     "name": "EPLASS Cloud",
