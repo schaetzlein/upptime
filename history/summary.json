@@ -58,18 +58,19 @@
     "url": "https://infoclient.eplass.de",
     "icon": "https://favicons.githubusercontent.com/infoclient.eplass.de",
     "slug": "eplass-info-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.38%",
     "time": 853,
-    "timeDay": 823,
+    "timeDay": 1076,
     "timeWeek": 854,
     "timeMonth": 853,
     "timeYear": 853,
     "dailyMinutesDown": {
+      "2021-09-07": 1,
       "2021-09-06": 57,
       "2021-09-01": 18,
       "2021-08-29": 59,
@@ -81,9 +82,9 @@
     "url": "https://file.eplass.de",
     "icon": "https://favicons.githubusercontent.com/file.eplass.de",
     "slug": "eplass-file",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -93,6 +94,7 @@
     "timeMonth": 1237,
     "timeYear": 1237,
     "dailyMinutesDown": {
+      "2021-09-07": 1,
       "2021-09-01": 19,
       "2021-08-20": 16
     }
@@ -102,7 +104,7 @@
     "url": "https://cloud.eplass.de",
     "icon": "https://favicons.githubusercontent.com/cloud.eplass.de",
     "slug": "eplass-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -113,6 +115,8 @@
     "timeWeek": 917,
     "timeMonth": 955,
     "timeYear": 955,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-07": 0
+    }
   }
 ]
