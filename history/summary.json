@@ -22,9 +22,9 @@
     "url": "https://portal.eplass.de",
     "icon": "https://favicons.githubusercontent.com/portal.eplass.de",
     "slug": "eplass-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1393,
     "timeMonth": 1393,
     "timeYear": 1393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-17": 0
+    }
   },
   {
     "name": "SYSTEL Portal",
