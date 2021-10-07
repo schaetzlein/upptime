@@ -90,7 +90,7 @@
     "time": 1238,
     "timeDay": 1261,
     "timeWeek": 1173,
-    "timeMonth": 1240,
+    "timeMonth": 1229,
     "timeYear": 1238,
     "dailyMinutesDown": {
       "2021-09-21": 16,
@@ -103,17 +103,19 @@
     "url": "https://cloud.eplass.de",
     "icon": "https://favicons.githubusercontent.com/cloud.eplass.de",
     "slug": "eplass-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
-    "timeDay": 1236,
-    "timeWeek": 1013,
-    "timeMonth": 977,
-    "timeYear": 967,
-    "dailyMinutesDown": {}
+    "time": 961,
+    "timeDay": 907,
+    "timeWeek": 959,
+    "timeMonth": 954,
+    "timeYear": 961,
+    "dailyMinutesDown": {
+      "2021-10-07": 0
+    }
   }
 ]
