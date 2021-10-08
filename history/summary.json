@@ -4,28 +4,30 @@
     "url": "https://www.eplass.de",
     "icon": "https://favicons.githubusercontent.com/www.eplass.de",
     "slug": "eplass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1213,
     "timeDay": 1322,
     "timeWeek": 1195,
     "timeMonth": 1368,
     "timeYear": 1213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 2
+    }
   },
   {
     "name": "EPLASS Portal",
     "url": "https://portal.eplass.de",
     "icon": "https://favicons.githubusercontent.com/portal.eplass.de",
     "slug": "eplass-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1446,
@@ -33,17 +35,19 @@
     "timeWeek": 1666,
     "timeMonth": 1492,
     "timeYear": 1446,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 2
+    }
   },
   {
     "name": "SYSTEL Portal",
     "url": "https://db-cde.eplass.de",
     "icon": "https://favicons.githubusercontent.com/db-cde.eplass.de",
     "slug": "systel-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1538,
@@ -51,17 +55,19 @@
     "timeWeek": 1687,
     "timeMonth": 1644,
     "timeYear": 1538,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-08": 1
+    }
   },
   {
     "name": "EPLASS InfoClient",
     "url": "https://infoclient.eplass.de",
     "icon": "https://favicons.githubusercontent.com/infoclient.eplass.de",
     "slug": "eplass-info-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 890,
@@ -70,6 +76,7 @@
     "timeMonth": 931,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2021-10-08": 1,
       "2021-09-06": 57,
       "2021-09-01": 18,
       "2021-08-29": 59,
@@ -103,9 +110,9 @@
     "url": "https://cloud.eplass.de",
     "icon": "https://favicons.githubusercontent.com/cloud.eplass.de",
     "slug": "eplass-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "97.55%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
@@ -115,6 +122,7 @@
     "timeMonth": 975,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2021-10-08": 0,
       "2021-10-07": 35
     }
   }
