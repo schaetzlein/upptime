@@ -4,10 +4,10 @@
     "url": "https://www.eplass.de",
     "icon": "https://favicons.githubusercontent.com/www.eplass.de",
     "slug": "eplass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1215,
@@ -15,7 +15,9 @@
     "timeWeek": 1257,
     "timeMonth": 1406,
     "timeYear": 1215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "EPLASS Portal",
@@ -86,12 +88,12 @@
     "url": "https://file.eplass.de",
     "icon": "https://favicons.githubusercontent.com/file.eplass.de",
     "slug": "eplass-file",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "71.60%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "71.56%",
     "uptimeWeek": "95.94%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 1242,
     "timeDay": 1023,
     "timeWeek": 1272,
