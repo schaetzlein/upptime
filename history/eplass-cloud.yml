@@ -1,7 +1,7 @@
 url: https://cloud.eplass.de
-status: up
-code: 200
-responseTime: 1167
-lastUpdated: 2021-12-07T23:18:41.867Z
+status: down
+code: 503
+responseTime: 931
+lastUpdated: 2021-12-08T15:32:43.851Z
 startTime: Thu Aug 19 2021 22:14:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
