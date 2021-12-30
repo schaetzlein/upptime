@@ -24,10 +24,10 @@
     "url": "https://portal.eplass.de",
     "icon": "https://favicons.githubusercontent.com/portal.eplass.de",
     "slug": "eplass-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1507,
@@ -36,6 +36,7 @@
     "timeMonth": 1672,
     "timeYear": 1507,
     "dailyMinutesDown": {
+      "2021-12-30": 1,
       "2021-12-14": 23,
       "2021-10-08": 18
     }
@@ -45,9 +46,9 @@
     "url": "https://db-cde.eplass.de",
     "icon": "https://favicons.githubusercontent.com/db-cde.eplass.de",
     "slug": "systel-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -57,6 +58,7 @@
     "timeMonth": 1653,
     "timeYear": 1533,
     "dailyMinutesDown": {
+      "2021-12-30": 0,
       "2021-12-14": 23,
       "2021-10-08": 17
     }
