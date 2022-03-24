@@ -25,10 +25,10 @@
     "url": "https://portal.eplass.de",
     "icon": "https://favicons.githubusercontent.com/portal.eplass.de",
     "slug": "eplass-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1595,
@@ -37,6 +37,7 @@
     "timeMonth": 1612,
     "timeYear": 1595,
     "dailyMinutesDown": {
+      "2022-03-24": 1,
       "2021-12-30": 26,
       "2021-12-14": 23,
       "2021-10-08": 18
